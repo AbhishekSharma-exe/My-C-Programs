@@ -2,3 +2,4 @@
 2. Add two numbers without + operator
 3. Adding two numbers using function
 4. Converter using switch case
+5. Multiplication tables 
