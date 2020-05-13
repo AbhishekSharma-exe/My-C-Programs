@@ -3,3 +3,4 @@
 3. Adding two numbers using function
 4. Converter using switch case
 5. Multiplication tables 
+6. Fibonacci series
