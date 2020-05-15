@@ -4,3 +4,4 @@
 4. Converter using switch case
 5. Multiplication tables 
 6. Fibonacci series
+7. Check if the number is odd or even
