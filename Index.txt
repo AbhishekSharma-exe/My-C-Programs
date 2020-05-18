@@ -1,7 +1,8 @@
 1. Hello World
 2. Add two numbers without + operator
 3. Adding two numbers using function
-4. Converter using switch case
+4. Basic Arithmetic operations
 5. Multiplication tables 
 6. Fibonacci series
 7. Check if the number is odd or even
+8. Converter using switch case
