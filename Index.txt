@@ -6,3 +6,4 @@
 6. Fibonacci series
 7. Check if the number is odd or even
 8. Converter using switch case
+9. Area and circumference of a circle
