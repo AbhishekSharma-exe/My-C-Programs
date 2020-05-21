@@ -8,3 +8,4 @@
 8. Converter using switch case
 9. Area and circumference of a circle
 10. factorial of a number
+11. Swapping two numbers using 3rd variable
