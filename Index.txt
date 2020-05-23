@@ -10,3 +10,4 @@
 10. factorial of a number
 11. Swapping two numbers using 3rd variable
 12. Simple Interest
+13. Heron's formula of triangle
