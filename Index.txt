@@ -12,3 +12,4 @@
 12. Simple Interest
 13. Heron's formula of triangle
 14. Swapping without using third variable
+15. Positive negative check using ternary operator
