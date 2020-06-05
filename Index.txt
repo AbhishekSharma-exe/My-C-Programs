@@ -14,3 +14,4 @@
 14. Swapping without using third variable
 15. Positive negative check using ternary operator
 16. ASCII value of a character
+17. Greatest amoung three numbers using nested IF-ELSE statements
