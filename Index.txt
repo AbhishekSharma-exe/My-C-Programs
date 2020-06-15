@@ -17,3 +17,4 @@
 17. Greatest amoung three numbers using nested IF-ELSE statements
 18. Increment and decrement operators
 19. Vowel or Consonent (Using Switch case)
+20. Array
