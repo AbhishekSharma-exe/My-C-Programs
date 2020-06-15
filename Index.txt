@@ -18,3 +18,4 @@
 18. Increment and decrement operators
 19. Vowel or Consonent (Using Switch case)
 20. Array
+21. Sum and Average  of array
