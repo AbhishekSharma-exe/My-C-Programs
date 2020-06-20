@@ -20,3 +20,4 @@
 20. Array
 21. Sum and Average  of array
 22. Largest and smallest element in array
+23. Array reversal 
