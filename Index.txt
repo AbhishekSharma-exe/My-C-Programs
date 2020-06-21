@@ -22,3 +22,4 @@
 22. Largest and smallest element in array
 23. Array reversal 
 24. 2 Dimentional Arrays
+24. Transpose of 2-D Arrays
