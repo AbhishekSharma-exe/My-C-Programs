@@ -25,3 +25,9 @@
 25. Transpose of 2-D Arrays
 26. Addition of two 2-D Arrays
 27. Multiplication of two 2-D Arrays
+28. Pattern 1
+    1
+    12
+    123
+    1234
+    12345
