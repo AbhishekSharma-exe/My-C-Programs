@@ -61,3 +61,4 @@
       321
        21
         1
+34. Power Function in C
