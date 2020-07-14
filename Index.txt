@@ -64,3 +64,4 @@
 34. Power Function in C
 35. Swapping two numbers using call by value 
 36. Swapping two numbers using call by reference
+37. Factorial of a number using Recursion
